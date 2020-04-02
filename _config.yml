@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: JULAI
-description: THE BLOG OF JULAI Team 
+description: THE BLOG OF JULAI TEAM
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: #www.julai.com
@@ -36,9 +36,9 @@ navigation:
     url: /
   - name: 团队
     url: /about
-  - name: 机器学习
+  - name: 历史内容
     url: /archive
-  - name: 软件开发
+  - name: 标签分类
     url: /tags
 
 # 每页的文章数
@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2020 JULAI TEAM
+footer-text: Copyright (c) 2020 by JULAI
  
 #
 # 评论，注意，请不要同时添加多种不同的评论区
