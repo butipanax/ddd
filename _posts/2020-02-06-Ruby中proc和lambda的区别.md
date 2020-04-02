@@ -3,7 +3,7 @@ layout: post
 title: Ruby中proc和lamda的区别
 date: 2020-02-06
 Author: Nonki 
-tags: [software]
+tags: [software,Nonki]
 comments: true
 toc: true
 ---
