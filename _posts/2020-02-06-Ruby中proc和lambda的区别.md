@@ -8,7 +8,6 @@ comments: true
 toc: true
 ---
 
-## Ruby中的block
 在Ruby代码中会用到大量的block(代码块), 你可以通过 {...} 或者 do...end 来定义 block, 例如:
 ```ruby
 10.times do
