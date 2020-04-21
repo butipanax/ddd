@@ -16,6 +16,7 @@ Email: samuel.uling@quaie.com
 
 
 
+
 ### - Levine, Senior Software Engineer
 
 B.S in Automation, Tongji University
@@ -26,6 +27,7 @@ Email: levine.li@quaie.com
 
 
 
+
 ### - Nonki, Senior Software Engineer
 
 B.S in Industrial Design, Zhejiang University
@@ -33,6 +35,7 @@ B.S in Industrial Design, Zhejiang University
 Research Area:  Software Development, Data Visualization
 
 Email: chang.cai@quaie.com
+
 
 
 
