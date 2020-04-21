@@ -1,3 +1,11 @@
+---
+layout: page
+title: 关于
+permalink: /about/
+---
+
+
+
 ### Samuel, Software Architect
 
 M.A in Date and Information management , Hamburg University
