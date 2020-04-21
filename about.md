@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-### Samuel, Software Architect
+### - Samuel, Software Architect
 
 M.A in Date and Information management , Hamburg University
 
@@ -16,7 +16,7 @@ Email: samuel.uling@quaie.com
 
 
 
-### Levine, Senior Software Engineer
+### - Levine, Senior Software Engineer
 
 B.S in Automation, Tongji University
 
@@ -26,7 +26,7 @@ Email: levine.li@quaie.com
 
 
 
-### Nonki, Senior Software Engineer
+### - Nonki, Senior Software Engineer
 
 B.S in Industrial Design, Zhejiang University
 
@@ -36,7 +36,7 @@ Email: chang.cai@quaie.com
 
 
 
-### Kater ,  Software Engineer
+### - Kater ,  Software Engineer
 
 B.S in Computer Science, Shanghai University
 
